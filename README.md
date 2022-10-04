@@ -1,2 +1,2 @@
-# Uber
-this is an Uber 2.0 app from Yt , with tailwind , redux
+# Crypto
+This is a demo Ui trading Crypto app
